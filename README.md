@@ -1,3 +1,5 @@
+Spring Boot 3.1.4
+
 A Simple Spring Boot Amazon SQS integration
 
 Create AWS Account, Secret and Access Key
